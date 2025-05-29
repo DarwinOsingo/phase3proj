@@ -1,5 +1,3 @@
-# lib/models.py
-
 from sqlalchemy import Column, Integer, String, Float, ForeignKey
 from sqlalchemy.orm import relationship
 from lib.database import Base  # Import the Base from our database module
