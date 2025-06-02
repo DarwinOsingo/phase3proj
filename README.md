@@ -89,6 +89,7 @@ Add products and assign them to a category
 View the list of all products or categories
 
 Search for a product by name
+```
 
 Delete a product when necessary
 
